@@ -70,9 +70,6 @@ This project relies on Firebase for user authentication and the real-time databa
 #### D. Enable Firestore (Database)
 
 14. On the left sidebar, go to **Databases & Storage** > **Firestore Database**.
-
-    ![Firestore Settings](docs/firebase-sidebar.png)
-
 15. Click **Create database**.
 16. When asked about security rules, select **Start in test mode** (this allows you to easily develop locally without strict rules).
 17. Choose a location (the default is fine) and click **Enable**.
